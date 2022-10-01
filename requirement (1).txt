@@ -1,0 +1,15 @@
+functions-framework==3.*
+pandas
+google-cloud-bigquery==2.13.1
+google-cloud-storage
+google-cloud-bigquery-storage
+mediapipe
+xgboost==1.4.1
+tensorflow==2.7.0
+joblib
+numpy
+scikit-learn
+opencv-python
+requests
+Flask==2.1.0
+gunicorn==20.1.0
