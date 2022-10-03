@@ -179,7 +179,7 @@ def return_pose(img):
     return "Nothing Detected"
 
 
-
+return_pose("address for the image")
 
 
 
